@@ -1,6 +1,6 @@
 # Browser Notification Sender
 
-This python program will send sends browser notifications to other linked devices from your device using .
+This python program will send messages as a browser notifications to other linked devices from your device.
 
 ## Installation
 
